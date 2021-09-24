@@ -1,0 +1,12 @@
+{
+  "name": "porfolio",
+  "version": "1.0.0",
+  "description": "This project is my own porfolio. All right is reserved",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./assets/sass/style.scss ./assets/styles/style.css --style compressed"
+  },
+  "author": "Brice Bouadou",
+  "license": "ISC",
+  "dependencies": {}
+}
